@@ -1,15 +1,8 @@
-@font-face {
-    font-family: 'Druk Wide Bold Bold';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Druk Wide Bold Bold'), url('./assets/DrukWideBold.woff') format('woff');
-    }
-
 *{
     padding: 0%;
     margin: 0%;
     box-sizing: border-box;
-    font-family: 'Druk Wide Bold Bold';
+    font-family: 'Druk Wide Bold', sans-serif;
     font-weight: 400;
     color: white;
 }
