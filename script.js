@@ -109,6 +109,8 @@ function gsap_animation(){
     })
 }
 
-setTimeout(hover_image_animation,5000);
+if (screen.width > 500){
+    setTimeout(hover_image_animation,5000);
+}
 window.setTimeout(loadpage,2000);
 gsap_animation();
