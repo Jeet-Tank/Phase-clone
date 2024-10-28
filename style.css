@@ -235,19 +235,19 @@ nav{
         }
         .hero_text_wrapper:nth-of-type(2){
             top: 51vw;
-            height: 8vw;
+            height: 9vw;
         }
         .hero_text_wrapper:nth-of-type(3){
-            top:60vw;
+            top:62vw;
         }
         .hero_text_wrapper:nth-of-type(4){
-            top:71vw;
+            top:75vw;
             width: 45vw;
-            height: 14vw;
+            height: 16vw;
             line-height: 5vh;
         }
         .hero_text_wrapper:nth-of-type(5){
-            top: 86vw;
+            top: 88vw;
             height: 16vw;
             word-break: break-all;
             line-height: 7vw;
@@ -260,7 +260,6 @@ nav{
     .img_holder{
         height: 15vh;
         width: 35vw;
-        background-color: red;
     }
         .img_holder img{
             height: 80%;
